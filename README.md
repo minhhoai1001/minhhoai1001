@@ -4,6 +4,7 @@
   <img align="left" alt="minhhoai's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br />
 
 Hi, I'm Minh Hoai, a computer vision engineer  🚀 from Vietnam, currently, I'm work at [Velox Tech](http://velox.no/). Beside's programming, I enjoy watching film and taking pictures.
 
@@ -12,7 +13,7 @@ Hi, I'm Minh Hoai, a computer vision engineer  🚀 from Vietnam, currently, I'm
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Deep learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: `minhhoai.ik@gmail.com`;
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
