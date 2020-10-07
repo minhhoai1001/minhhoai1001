@@ -6,7 +6,7 @@
 
 <br />
 
-Hi, I'm Minh Hoai, a computer vision engineer  🚀 from Vietnam, currently, I'm work at [Velox Tech](http://velox.no/). Beside's programming, I enjoy watching film and taking pictures.
+Hi, I'm **Minh Hoai**, a computer vision engineer  🚀 from Vietnam, currently, I'm work at [Velox Tech](http://velox.no/). Beside's programming, I enjoy watching film and taking pictures.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
