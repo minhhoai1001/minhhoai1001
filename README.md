@@ -20,7 +20,7 @@ Hi, I'm **Minh Hoai**, a computer vision engineer  🚀 from Vietnam, currently,
 
 **Languages and Tools:**  
 
-![C++](C++_Logo.svg =30x)
+<img src="C++_Logo.svg" alt="C++" width="30"/>
 
 **Paulo Coelho, The Alchemist**
 > “And, when you want something, all the universe conspires in helping you to achieve it.”
