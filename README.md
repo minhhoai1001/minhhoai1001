@@ -16,7 +16,7 @@ Hi, I'm **Minh Hoai**, a computer vision engineer  🚀 from Vietnam, currently,
 - 🌱 I’m currently learning Deep learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: `minhhoai.ik@gmail.com`;
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝[Resume]https://drive.google.com/file/d/12sYS8jJX1bMKeL2dVmX28NKmJVvAOefo/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -24,7 +24,6 @@ Hi, I'm **Minh Hoai**, a computer vision engineer  🚀 from Vietnam, currently,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.google.com/imgres?imgurl=https://pytorch.org/assets/images/pytorch-logo.png&imgrefurl=https://pytorch.org/&tbnid=iZnPPwMHDTJJkM&vet=1&docid=2Nozy8jUC8IpBM&w=2500&h=2500&itg=1&source=sh/x/im"></code>
 
 **Paulo Coelho, The Alchemist**
 > “And, when you want something, all the universe conspires in helping you to achieve it.”
