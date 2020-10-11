@@ -11,7 +11,7 @@ Hi, I'm **Minh Hoai**, a computer vision engineer  🚀 from Vietnam, currently,
 - 🌱 I’m currently learning Deep learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: `minhhoai.ik@gmail.com`;
-- 📝[Resume](https://drive.google.com/file/d/12sYS8jJX1bMKeL2dVmX28NKmJVvAOefo/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1MGlPkVhj7pUj3osrqBVmiRMsud-11-6p/view?usp=sharing)
 
 
 **Languages and Tools:**  
